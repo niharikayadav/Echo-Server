@@ -1,0 +1,1 @@
+This project deals with another Client- Server based programming. This is an echo server, which handles multiple clients at same time and echoes back whatever client has send to the server. 
