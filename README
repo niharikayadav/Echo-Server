@@ -1,1 +1,9 @@
-This project deals with another Client- Server based programming. This is an echo server, which handles multiple clients at same time and echoes back whatever client has send to the server. 
+This project deals with another Client- Server based programming. This is an echo server, which handles multiple clients at the same time and echoes back whatever client has send to the server. 
+How to test the program:
+
+Server side:
+java EchoServer <port_num>
+
+Client Side:
+
+telnet <server_ip> <server_port>
